@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi, I'm Phạm Tuấn Hùng 👋
 
-Data Science student. Interested in forecasting, customer analytics and product analytics.
+3rd-year Data Science student at Ho Chi Minh City University of Technology (HCMUT – VNU-HCM). Interested in forecasting, customer analytics and product analytics.
 
 **Tools:** Python (pandas, scikit-learn, statsmodels) · SQL (SQL Server, BigQuery) · Power BI / DAX · Git
 
